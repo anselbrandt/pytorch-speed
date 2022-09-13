@@ -1,3 +1,5 @@
+# Dense Optical Flow in OpenCV using Gunnar-Farneback
+
 import cv2 as cv
 import numpy as np
 from PIL import Image
